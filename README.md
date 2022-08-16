@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ## Overview
-The purpose of this project is to utilize unspervised machine learning to perform an analysis of cryptocurrencies and visualize the results. To process of this analysis included: preprocessing of the data from the database, reducing the the demensions of the data using Principal Component Analysis (PCA), clustering them using K-Means, and visualizing the results with a 2-D and 3-D scatter plot and table. 
+The purpose of this project is to utilize unspervised machine learning to perform an analysis of cryptocurrencies and visualize the results. To process of this analysis included: preprocessing of the data from the database, reducing the the dimensions of the data using Principal Component Analysis (PCA), clustering them using K-Means, and visualizing the results with a 2-D and 3-D scatter plot and table. 
 
 ## Results
 ### K-Means Clustering - Elbow Curve
